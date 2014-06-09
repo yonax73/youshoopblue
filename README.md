@@ -5,13 +5,13 @@ youshoopblue Bootstrap theme
 
 
 
-**Version** 0.1 9 jun 2014
+**Version :** 0.1 9 jun 2014
 
-**Created** 9 jun 2014**
+**Created :** 9 jun 2014**
 
-**Author** [Yonatan Alexis Quintero Rodriguez](http://yonaxtics.hol.es/app-youshoop/php/)
+**Author :** [Yonatan Alexis Quintero Rodriguez](http://yonaxtics.hol.es/app-youshoop/php/)
 
-**Contact Me** yonaxtics@gmail.com
+**Contact Me :** yonaxtics@gmail.com
 
-**Licencia MIT**
+**License  :** MIT
 
