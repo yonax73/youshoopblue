@@ -9,6 +9,8 @@ youshoopblue Bootstrap theme
 
 **Created :** 9 jun 2014**
 
+**Copyright 2014 YonaxTics, Inc.**
+
 **Author :** [Yonatan Alexis Quintero Rodriguez](http://yonaxtics.hol.es/app-youshoop/php/)
 
 **Contact Me :** yonax73@gmail.com
