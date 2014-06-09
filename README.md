@@ -11,5 +11,7 @@ youshoopblue Bootstrap theme
 
 **Author** [Yonatan Alexis Quintero Rodriguez](http://yonaxtics.hol.es/app-youshoop/php/)
 
+**Contact Me** yonaxtics@gmail.com
+
 **Licencia MIT**
 
